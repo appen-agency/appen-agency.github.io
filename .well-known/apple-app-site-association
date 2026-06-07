@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["HWKSN9MB55.com.joedub.CrewControl"],
+        "components": [
+          {
+            "/": "/join",
+            "?": { "token": "?*" },
+            "comment": "Crew invite join link"
+          }
+        ]
+      }
+    ]
+  }
+}
