@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.appen.crewcontrol",
+      "sha256_cert_fingerprints": [
+        "45:16:9D:0E:86:58:DB:94:68:DE:E0:92:3F:DD:9D:A4:AE:FB:E0:E5:51:BE:E9:ED:B2:E2:26:D7:89:3A:FB:1E"
+      ]
+    }
+  }
+]
